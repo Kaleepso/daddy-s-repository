@@ -1,0 +1,17 @@
+# Initialize Git
+git init
+
+# Add remote repository
+git remote add origin <your-repo-URL>
+
+# Check status
+git status
+
+# Add all files
+git add .
+
+# Commit changes
+git commit -m "Added email validation and user list features"
+
+# Push to remote
+git push origin main
